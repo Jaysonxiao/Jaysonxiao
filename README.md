@@ -1,28 +1,67 @@
-# 你好，我是 Jayson 👋
+# Hi, I'm Jayson 👋
 
-**Java 后端出身，正在把好奇心一路写进机器学习和 AI 应用。**
+**A Java backend developer exploring machine learning, AI applications, and the engineering behind useful agents.**
 
-我喜欢把新技术拆开、亲手跑通，再琢磨怎么真正落地。做 Agent 时，我不只关心模型能不能回答，也关心工具、会话、上下文和执行过程这些“让它把事情办完”的细节。
+I enjoy taking new technologies apart, getting them running, and figuring out how to turn what I learn into practical software. My background is in backend development, with experience in frontend development, deployment, and operational maintenance. I bring that same hands-on approach to my work with Python, machine learning, and AI.
 
-> 好奇心负责开新坑，工程习惯负责把坑填上。
+When building agents, I care about the whole system: how models use tools, how sessions persist, how context is managed, and how execution can be inspected and controlled. I’m especially interested in the engineering details that help an agent follow through on a task.
 
-## 我的技术路线
+For me, learning works best when it leads to something I can run, test, and improve.
 
-- **2017** — 开始做 Java 后端，主要使用 Spring / Spring Boot
-- **2022** — 开始接触机器学习
-- **2024** — 开始学习 AI 开发
+> Curiosity gets me started. Engineering discipline helps me finish.
 
-## 行业经历
+## 🧭 My Technical Journey
 
-环保行业 · 本地化与翻译行业
+- **2017 — Java backend development**  
+  Started building backend applications with Java, Spring, and Spring Boot, while also taking on frontend development, application deployment, and operational maintenance. Working across these areas gave me a broader understanding of how applications are built, delivered, and maintained, shaping the practical engineering approach I still use today.
 
-## 精选项目
+- **2022 — Machine learning**  
+  Began exploring machine learning, expanding my interests from application logic to data, models, and how they can solve practical problems.
 
-- [pi-agent-langGraph](https://github.com/Jaysonxiao/pi-agent-langGraph)：用 Python + LangGraph 重构 Pi Agent 核心能力，包含 CLI、本机工作台、工具调用、会话持久化与可观测性。
-- [typofix-cn](https://github.com/Jaysonxiao/typofix-cn)：基于 MacBERT 的离线中文文档纠错系统。
+- **2024 — AI application development**  
+  Started learning AI development, with a growing focus on agents, tool integration, context management, and connecting model capabilities to usable applications.
 
-## 常用技术
+These interests build on one another. Backend engineering gives me a foundation for organizing systems, while machine learning and AI give me new ways to approach the problems those systems can solve.
 
-Java · Spring · Spring Boot · Python · LangGraph · Machine Learning · AI
+## 🏢 Industry Experience
 
-更多项目见 [我的 GitHub 仓库](https://github.com/Jaysonxiao?tab=repositories)。
+I’ve worked in the **environmental protection** and **localization and translation** industries.
+
+That experience keeps me interested in software that fits real workflows—where domain knowledge, language, and everyday operational needs matter alongside the technology.
+
+## 🔍 What I'm Exploring
+
+- **Agent engineering:** connecting models, tools, state, and execution into a coherent workflow.
+- **Context and session management:** helping applications retain useful information across interactions.
+- **Observability:** making agent behavior easier to inspect, debug, and evaluate.
+- **Chinese NLP:** applying language models to practical document checking and correction.
+- **Local tools:** building applications that can run locally and fit into existing workflows.
+
+## 📌 Featured Projects
+
+### [pi-agent-langGraph](https://github.com/Jaysonxiao/pi-agent-langGraph)
+
+A Python + LangGraph implementation that reconstructs the core capabilities of Pi Agent.
+
+The project brings together a CLI, a local web workbench, tool calling, persistent sessions, context management, and execution observability. It’s my way of studying how the parts of an agent fit together—and turning that understanding into a runnable implementation.
+
+### [typofix-cn](https://github.com/Jaysonxiao/typofix-cn)
+
+A local-first Chinese document checking tool built around MacBERT and rule-based validation.
+
+It provides CLI and web interfaces for checking Chinese DOCX documents, with support for terminology libraries and offline reports. The project explores how NLP can become a practical tool for everyday document work.
+
+## 🛠️ Technologies I Work With
+
+**Backend:** Java · Spring · Spring Boot  
+**AI & Data:** Python · LangGraph · Machine Learning · AI Application Development
+
+Beyond backend development, my experience also includes frontend development, application deployment, and operational maintenance.
+
+## 💡 How I Like to Build
+
+I learn by building, inspecting the results, and refining the implementation. I like understanding what happens beneath an abstraction, especially when it affects reliability, debugging, or the user experience.
+
+My projects are a record of that process: following a question, working through the details, and turning an idea into something useful.
+
+Explore more in [my GitHub repositories](https://github.com/Jaysonxiao?tab=repositories).
